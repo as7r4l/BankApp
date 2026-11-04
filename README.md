@@ -39,4 +39,4 @@
 
 **Никита / Поведайко**
 * iOS Developer
-* [LinkedIn]([https://www.linkedin.com/in/nikita-p-400482396/]) | [Telegram](https://t.me/n_nicky) 
+* [LinkedIn](https://www.linkedin.com/in/nikita-p-400482396/) | [Telegram](https://t.me/n_nicky) 
