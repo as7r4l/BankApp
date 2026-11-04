@@ -30,7 +30,7 @@
 ## Установка и запуск
 
 1. Склонируйте репозиторий:
-`git clone https://github.com/YOUR_USERNAME/SpiritBank.git`
+`git clone https://github.com/as7r4l/SpiritBank.git`
 2. Откройте проект в Xcode (требуется версия Xcode 15.0+ и iOS 16.0+).
 3. Дождитесь автоматической загрузки Swift-пакетов (Supabase).
 4. Запустите проект на симуляторе или физическом устройстве (Cmd + R).
